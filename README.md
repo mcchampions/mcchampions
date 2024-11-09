@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccahmpions)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcchampions)
 
 #### Github Info
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcchampions&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)

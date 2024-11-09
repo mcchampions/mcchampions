@@ -24,4 +24,4 @@ A coding lover
 #### Github Info
 ![qscbm187531's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcchampions&theme=ambient_gradient&include_all_commits=true&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=mcchampions&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=mcchampions&color=ff69b4&abbreviated=true)

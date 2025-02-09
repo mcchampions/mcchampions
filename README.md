@@ -19,9 +19,9 @@ A coding lover
 <code><img width="4%" src="https://github.com/JetBrains/logos/blob/master/web/clion/clion.svg"></code>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcchampions&theme=ambient_gradient&layout=compact)
+![Top Langs](https://github-readme-stats-qscbm187531s-projects.vercel.app/api/top-langs/?username=mcchampions&theme=ambient_gradient&layout=compact)
 
 #### Github Info
-![qscbm187531's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcchampions&theme=ambient_gradient&include_all_commits=true&show_icons=true)
+![qscbm187531's GitHub stats](https://github-readme-stats-qscbm187531s-projects.vercel.app/api?username=mcchampions&theme=ambient_gradient&include_all_commits=true&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=mcchampions&color=ff69b4&abbreviated=true)
